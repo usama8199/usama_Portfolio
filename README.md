@@ -48,4 +48,4 @@
 - This Project contain Analysis and Dashboarding in Excel
 - PPT of Analysis of Indian Premier League from 2008-2019
 
-[<img src="https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/excel.jpg" width="60%">](https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/excel.jpg)
+[<img src="excel.jpg" width="60%">](excel.jpg)
