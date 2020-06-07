@@ -43,6 +43,4 @@ Example data science portfolio
 # [Project 7: Analysis-IPL-EDA-Excel: Overview](https://github.com/usama8199/Analysis-IPL-EDA-Excel)
 This Project contain Dashboarding in Excel and a PPT of Analysis of Indian Premier League from 2008-2019
 
-
-
-
+[<img src="https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/excel.jpg" width="60%">](https://github.com/usama8199/Analysis-IPL-EDA-Excel/blob/master/excel.jpg)
