@@ -1,7 +1,8 @@
 # Usama_Portfolio
 Example data science portfolio
 
-# [Project 1: Clustering, Prediction and forecasting of ApplicationCount : Overview](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
+# [Project 1: Clustering, Prediction and forecasting of ApplicationCount](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
+## Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
 - Modeling and predicting of application using Decision tree and linear regression and compare them both
