@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Usama_Portfolio
+Example data science portfolio
 
-You can use the [editor on GitHub](https://github.com/usama8199/usama_Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# Project 1: Modeling-Prediction-Clustering-ApplicationCount : Overview
+- Deal with missing value in ZONE using Random Forest
+- Cluster the data with the help of state, zone and group
+- Modeling and predicting of application using Decision tree and linear regression and compare them both
+- Also used forecasting to predict Application count for next 3 months
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[<img src="https://img.youtube.com/vi/Cn5BjI_qQFc/maxresdefault.jpg" width="60%">](https://youtu.be/Cn5BjI_qQFc)
 
-### Markdown
+# Project 2: Analysis-CosmeticProduct-EDA-Python: Overview
+- Cleaned the data using python library which is Pandas and numpy
+- Performed EDA with the help of numpy, pandas, Matplotlib andseaborn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[<img src="https://img.youtube.com/vi/6_YotRYSt9g/maxresdefault.jpg" width="60%">](https://youtu.be/6_YotRYSt9g )
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/usama8199/usama_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
