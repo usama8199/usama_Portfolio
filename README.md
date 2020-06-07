@@ -1,7 +1,7 @@
 # Usama_Portfolio
 Example data science portfolio
 
-# Project 1: Modeling-Prediction-Clustering-ApplicationCount : Overview
+# [Project 1: Clustering, Prediction and forecasting of ApplicationCount : Overview](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
 - Modeling and predicting of application using Decision tree and linear regression and compare them both
@@ -14,4 +14,35 @@ Example data science portfolio
 - Performed EDA with the help of numpy, pandas, Matplotlib andseaborn
 
 [<img src="https://img.youtube.com/vi/6_YotRYSt9g/maxresdefault.jpg" width="60%">](https://youtu.be/6_YotRYSt9g )
+
+# Project 3: Passorfail-MachineLearning-DecisionTree-Hackathon: Overview
+- Cleaned and preprocessed the data using NumPy, Pandas, seaborn
+- Reduced the dimensionality using PCA
+- Modeling and Prediction of trainee performance using Decision Tree
+
+[<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="60%">](https://youtu.be/Ikj6ANjRgsI)
+
+# Project 4:Analysis-Forecasting-Seasonal-NonSeasonal-Python: Overview
+- Cleaned and analyze the data sets using python
+- Using ARIMA and Exponential smoothing fitted and forecasted the non-seasonal and seasonal variable respectively
+
+[<img src="https://img.youtube.com/vi/_ZFwhIBix-4/maxresdefault.jpg" width="60%">](https://youtu.be/_ZFwhIBix-4)
+
+# Project 5: Analysis-COVID19-Python-Tableau: Overview
+- Cleaned the data using python library pandas
+- Performed EDA and Dashboarding using Tableau
+
+[<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="60%">](https://youtu.be/Otd1tNKHWDI)
+
+# Project 6: Analysis-PlayStore-EDA: Overview
+- Cleaned the data using python libraries like numpy and pandas
+- Performed EDA and statistical analysis using numpy, pandas, matplotlib and seaborn
+
+[<img src="https://img.youtube.com/vi/c_mXNsHDCRQ/maxresdefault.jpg" width="50%">](https://youtu.be/c_mXNsHDCRQ)
+
+# [Project 7: Analysis-IPL-EDA-Excel: Overview](https://github.com/usama8199/Analysis-IPL-EDA-Excel)
+This Project contain Dashboarding in Excel and a PPT of Analysis of Indian Premier League from 2008-2019
+
+
+
 
