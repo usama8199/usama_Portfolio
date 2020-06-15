@@ -49,3 +49,7 @@
 - PPT of Analysis of Indian Premier League from 2008-2019
 
 [<img src="excel.jpg" width="60%">](excel.jpg)
+
+
+
+# [Resume](https://drive.google.com/file/d/1d7xcTIckB2nF4QOvBupoTmnbnZ7nv-7q/view?usp=sharing)
