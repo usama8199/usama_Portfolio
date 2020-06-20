@@ -1,4 +1,4 @@
-# [Project 1: Clustering, Prediction and forecasting of ApplicationCount](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
+# [Project 1: Clustering, Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
 #### Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
@@ -15,7 +15,7 @@
 
 [<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ/maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ)
 
-# [Project 3: Analysis of CosmeticProduct](https://github.com/usama8199/Analysis-CosmeticProduct-EDA-Python)
+# [Project 3: Analysis of Cosmetic Product](https://github.com/usama8199/Analysis-CosmeticProduct-EDA-Python)
 #### Overview and Video:
 - Cleaned the data using python library which is Pandas and numpy
 - Performed EDA with the help of numpy, pandas, Matplotlib andseaborn
