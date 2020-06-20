@@ -8,7 +8,7 @@
 [<img src="https://img.youtube.com/vi/Cn5BjI_qQFc/maxresdefault.jpg" width="60%">](https://youtu.be/Cn5BjI_qQFc)
 
 # [Project 2: EDA_CurrentDataScienceJobs_Glassdoor_India](https://github.com/usama8199/EDA-CurrentDataScienceJobs-Glassdoor-India-R)
-#### Overview and Video
+#### Overview and Video:
 - Scrap the Glassdoor data using Python
 - Cleaned the data using R
 - Performed EDA and extracted some valuable insights
