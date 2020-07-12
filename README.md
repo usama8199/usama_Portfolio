@@ -2,7 +2,7 @@
 #### Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
-- Modeling and predicting of application using Decision tree with the accuracy of 60%
+- Modeling and predicting of application using Decision tree after comparison on root mean square error with score of 469.3362715213254
 - Also used forecasting to predict Application count for next 3 months
 
 [<img src="https://img.youtube.com/vi/Cn5BjI_qQFc/maxresdefault.jpg" width="60%">](https://youtu.be/Cn5BjI_qQFc)
