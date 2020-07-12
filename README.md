@@ -1,4 +1,4 @@
-# [Project 1: Clustering, Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
+# [Project 1: Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
 #### Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
