@@ -2,7 +2,7 @@
 #### Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
-- Modeling and predicting of application using Decision tree and linear regression and compare them both
+- Modeling and predicting of application using Decision tree with the accuracy of 60%
 - Also used forecasting to predict Application count for next 3 months
 
 [<img src="https://img.youtube.com/vi/Cn5BjI_qQFc/maxresdefault.jpg" width="60%">](https://youtu.be/Cn5BjI_qQFc)
@@ -34,7 +34,7 @@
 #### Overview and Video:
 - Cleaned and preprocessed the data using NumPy, Pandas, seaborn
 - Reduced the dimensionality using PCA
-- Modeling and Prediction of trainee performance using Decision Tree
+- Modeling and Prediction of trainee performance using Decision Tree with the accuracy of 80% by F1 Score
 
 [<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="60%">](https://youtu.be/Ikj6ANjRgsI)
 
