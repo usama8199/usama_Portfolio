@@ -1,4 +1,4 @@
-                                   *click on the project title to view code*
+          *click on the project title to view code*
 
 # [Project 1: Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
 #### Overview and Video:
