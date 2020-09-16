@@ -1,4 +1,5 @@
           *click on the project title to view code*
+      
 # [Project 1: Women Clothing Reviews Prediction](https://github.com/usama8199/Clothing-Review-Prediction-NLP)
 #### Overview and Website link
 - Cleaned the text data by removing stopwords and lemmatization
