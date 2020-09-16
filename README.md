@@ -8,7 +8,7 @@
 - Performed EDA using wordcloud and seaborn to analyse the words effect on reviews
 - Performed TF-IDF on the text data and created a model using logistics regression after comparing different model with accuracy of 77%
 - Integrate the model on Flask and deployed it on heroku
-###  https://women-clothing-review.herokuapp.com/
+###  [https://women-clothing-review.herokuapp.com/](https://women-clothing-review.herokuapp.com/)
 
 
 # [Project 2: Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
