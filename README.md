@@ -61,7 +61,7 @@
 # [Project 8: Analysis of COVID19](https://github.com/usama8199/Analysis-COVID19-Dashboarding-EDA-Tableau-Python)
 #### Overview and Video:
 - Cleaned the data using python library pandas
-- Analysis of different symptoms of the virus, the origin, spread of the virus Dashboarding using Tableau
+- Analysis of different symptoms of the virus, the origin, spread of the virus and Dashboarding using Tableau
 
 [<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="60%">](https://youtu.be/Otd1tNKHWDI)
 
