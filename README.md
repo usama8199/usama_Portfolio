@@ -24,7 +24,7 @@
 #### Overview and Video:
 - Scrap the Glassdoor data using Python
 - Cleaned the data using R
-- Performed EDA and extracted some valuable insights
+- Performed EDA and extracted some valuable insights like the job availability, skills required, companies where jobs are available in COVID19, etc
 
 [<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ/maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ)
 
@@ -61,21 +61,21 @@
 # [Project 8: Analysis of COVID19](https://github.com/usama8199/Analysis-COVID19-Dashboarding-EDA-Tableau-Python)
 #### Overview and Video:
 - Cleaned the data using python library pandas
-- Performed EDA and Dashboarding using Tableau
+- Analysis of different symptoms of the virus, the origin, spread of the virus Dashboarding using Tableau
 
 [<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="60%">](https://youtu.be/Otd1tNKHWDI)
 
 # [Project 9: Analysis of PlayStore](https://github.com/usama8199/Analysis-PlayStore-EDA-Python)
 #### Overview and Video:
 - Cleaned the data using python libraries like numpy and pandas
-- Performed EDA and statistical analysis using numpy, pandas, matplotlib and seaborn
+- Performed EDA like top apps, types of preferred paid apps, etc and statistical analysis
 
 [<img src="https://img.youtube.com/vi/c_mXNsHDCRQ/maxresdefault.jpg" width="50%">](https://youtu.be/c_mXNsHDCRQ)
 
 # [Project 10: Analysis of IPL](https://github.com/usama8199/Analysis-IPL-EDA-Excel)
 #### Overview:
 - This Project contain Analysis and Dashboarding in Excel
-- PPT of Analysis of Indian Premier League from 2008-2019
+- PPT of Analysis of Indian Premier League from 2008-2019 for Top 10 Batsmen and bowlers, teams which are difficult to win against, Stadiums preferred for batting and              bowling, etc
 
 [<img src="excel.jpg" width="60%">](excel.jpg)
 
