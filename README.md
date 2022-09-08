@@ -6,7 +6,7 @@
 #### Overview and Website link
 - Cleaned the text data by removing stopwords and lemmatization
 - Performed EDA using wordcloud and seaborn to analyse the words effect on reviews
-- Performed TF-IDF on the text data and created a model using logistics regression after comparing different model with accuracy of 77%
+- Performed Layer Embedding on the text data and created a model using LSTM after comparing different model with accuracy of 85%
 - Integrate the model on Flask and deployed it on heroku
 ###  [https://women-clothing-review.herokuapp.com/](https://women-clothing-review.herokuapp.com/)
 
