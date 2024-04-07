@@ -1,6 +1,15 @@
           *click on the project title to view code*
 
 
+# [Project 1: Parameter Efficient Fine Tuning](https://github.com/usama8199/Parameter-Efficient-Fine-Tuning)
+#### Overview
+- Understanding the mechanics behind LoRA, QLoRA, and prompt tuning.
+- Step-by-step guides on applying these techniques for fine-tuning.
+- Evaluating the performance and efficiency of PEFT techniques against traditional fine-tuning approaches. Repository Structure
+- Demonstrates prompt tuning on Llama-2-7B for targeted NLP tasks.
+-  Showcases the application of QLoRA for fine-tuning on specific datasets.
+- A PowerPoint presentation detailing the PEFT concepts, methodologies, and key findings from our experiments.\
+
 
 # [Project 1: Women Clothing Reviews Prediction](https://github.com/usama8199/Clothing-Review-Prediction-NLP)
 #### Overview and Website link
