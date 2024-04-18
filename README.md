@@ -1,17 +1,25 @@
           *click on the project title to view code*
+          
+# [Project 1: Multi-Agent Chat Model](https://github.com/usama8199/MultiAgent-ChatModel/tree/main)
+#### Overview and Video Explanation
+- We have created a multi-agent chat model that allows you to perform various tasks, such as sending emails to people or browsing the web
+- We have utilized Langchain and Langgraph, which extends the LangChain Expression Language with the ability to coordinate multiple chains (or actors) across multiple steps of computation in a cyclic manner
+- A supervisor will understand the task and utilize one or more agents, depending on whether it can answer or solve the desired task
+- Once an agent completes its task, it will provide the result to the supervisior, which will decide whether the task is completed or if another tool is required. Regardless of the situation, the chain will come back to the supervisor 
 
+[<img src="https://img.youtube.com/vi/tC5P0R3mBJs/maxresdefault.jpg" width="60%">](https://youtu.be/tC5P0R3mBJs)
 
-# [Project 1: Parameter Efficient Fine Tuning](https://github.com/usama8199/Parameter-Efficient-Fine-Tuning)
+# [Project 2: Parameter Efficient Fine Tuning](https://github.com/usama8199/Parameter-Efficient-Fine-Tuning)
 #### Overview
 - Understanding the mechanics behind LoRA, QLoRA, and prompt tuning.
 - Step-by-step guides on applying these techniques for fine-tuning.
 - Evaluating the performance and efficiency of PEFT techniques against traditional fine-tuning approaches. Repository Structure
 - Demonstrates prompt tuning on Llama-2-7B for targeted NLP tasks.
 -  Showcases the application of QLoRA for fine-tuning on specific datasets.
-- A PowerPoint presentation detailing the PEFT concepts, methodologies, and key findings from our experiments.\
+- A PowerPoint presentation detailing the PEFT concepts, methodologies, and key findings from our experiments.
 
 
-# [Project 2: Women Clothing Reviews Prediction](https://github.com/usama8199/Clothing-Review-Prediction-NLP)
+# [Project 3: Women Clothing Reviews Prediction](https://github.com/usama8199/Clothing-Review-Prediction-NLP)
 #### Overview and Website link
 - Cleaned the text data by removing stopwords and lemmatization
 - Performed EDA using wordcloud and seaborn to analyse the words effect on reviews
@@ -20,7 +28,7 @@
 ###  [https://women-clothing-review.herokuapp.com/](https://women-clothing-review.herokuapp.com/)
 
 
-# [Project 3: Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
+# [Project 4: Prediction and forecasting of Application Count](https://github.com/usama8199/Clustering-Prediction-DecisionTree-TimeSeriesForecasting-ApplicationCount)
 #### Overview and Video:
 - Deal with missing value in ZONE using Random Forest
 - Cluster the data with the help of state, zone and group
@@ -29,7 +37,7 @@
 
 [<img src="https://img.youtube.com/vi/Cn5BjI_qQFc/maxresdefault.jpg" width="60%">](https://youtu.be/Cn5BjI_qQFc)
 
-# [Project 4: Analysis on Current Data Science Jobs from Glassdoor India](https://github.com/usama8199/EDA-CurrentDataScienceJobs-Glassdoor-India-R)
+# [Project 5: Analysis on Current Data Science Jobs from Glassdoor India](https://github.com/usama8199/EDA-CurrentDataScienceJobs-Glassdoor-India-R)
 #### Overview and Video:
 - Scrap the Glassdoor data using Python
 - Cleaned the data using R
@@ -37,7 +45,7 @@
 
 [<img src="https://img.youtube.com/vi/dGfdbJ1gTgQ/maxresdefault.jpg" width="60%">](https://youtu.be/dGfdbJ1gTgQ)
 
-# [Project 5: Prediction of Big Basket Sales](https://github.com/usama8199/BigBasket_Prediction_MarketingAnalytics)
+# [Project 6: Prediction of Big Basket Sales](https://github.com/usama8199/BigBasket_Prediction_MarketingAnalytics)
 #### Overview and Video:
 1. Deal with the null value with the help of imputer method in Python
 2. Analyze the data to derive different insights and help to choose the algorithm
@@ -45,14 +53,14 @@
 
 [<img src="https://img.youtube.com/vi/rvDZ_jIoIho/maxresdefault.jpg" width="60%">](https://youtu.be/rvDZ_jIoIho)
 
-# [Project 6: Analysis of Cosmetic Product](https://github.com/usama8199/Analysis-CosmeticProduct-EDA-Python)
+# [Project 7: Analysis of Cosmetic Product](https://github.com/usama8199/Analysis-CosmeticProduct-EDA-Python)
 #### Overview and Video:
 - Cleaned the data using python library which is Pandas and numpy
 - Performed EDA with the help of numpy, pandas, Matplotlib andseaborn
 
 [<img src="https://img.youtube.com/vi/6_YotRYSt9g/maxresdefault.jpg" width="60%">](https://youtu.be/6_YotRYSt9g )
 
-# [Project 7: Pass or fail prediction](https://github.com/usama8199/Passorfail-MachineLearning-DecisionTree)
+# [Project 8: Pass or fail prediction](https://github.com/usama8199/Passorfail-MachineLearning-DecisionTree)
 #### Overview and Video:
 - Cleaned and preprocessed the data using NumPy, Pandas, seaborn
 - Reduced the dimensionality using PCA
@@ -60,28 +68,28 @@
 
 [<img src="https://img.youtube.com/vi/Ikj6ANjRgsI/maxresdefault.jpg" width="60%">](https://youtu.be/Ikj6ANjRgsI)
 
-# [Project 8: Forecasting of Seasonal and NonSeasonal Data](https://github.com/usama8199/Analysis-Forecasting-Seasonal-NonSeasonal-Python)
+# [Project 9: Forecasting of Seasonal and NonSeasonal Data](https://github.com/usama8199/Analysis-Forecasting-Seasonal-NonSeasonal-Python)
 #### Overview and Video:
 - Cleaned and analyze the data sets using python
 - Using ARIMA and Exponential smoothing fitted and forecasted the non-seasonal and seasonal variable respectively
 
 [<img src="https://img.youtube.com/vi/_ZFwhIBix-4/maxresdefault.jpg" width="60%">](https://youtu.be/_ZFwhIBix-4)
 
-# [Project 9: Analysis of COVID19](https://github.com/usama8199/Analysis-COVID19-Dashboarding-EDA-Tableau-Python)
+# [Project 10: Analysis of COVID19](https://github.com/usama8199/Analysis-COVID19-Dashboarding-EDA-Tableau-Python)
 #### Overview and Video:
 - Cleaned the data using python library pandas
 - Analysis of different symptoms of the virus, the origin, spread of the virus and Dashboarding using Tableau
 
 [<img src="https://img.youtube.com/vi/Otd1tNKHWDI/maxresdefault.jpg" width="60%">](https://youtu.be/Otd1tNKHWDI)
 
-# [Project 10: Analysis of PlayStore](https://github.com/usama8199/Analysis-PlayStore-EDA-Python)
+# [Project 11: Analysis of PlayStore](https://github.com/usama8199/Analysis-PlayStore-EDA-Python)
 #### Overview and Video:
 - Cleaned the data using python libraries like numpy and pandas
 - Performed EDA like top apps, types of preferred paid apps, etc and statistical analysis
 
 [<img src="https://img.youtube.com/vi/c_mXNsHDCRQ/maxresdefault.jpg" width="50%">](https://youtu.be/c_mXNsHDCRQ)
 
-# [Project 11: Analysis of IPL](https://github.com/usama8199/Analysis-IPL-EDA-Excel)
+# [Project 12: Analysis of IPL](https://github.com/usama8199/Analysis-IPL-EDA-Excel)
 #### Overview:
 - This Project contain Analysis and Dashboarding in Excel
 - PPT of Analysis of Indian Premier League from 2008-2019 for Top 10 Batsmen and bowlers, teams which are difficult to win against, Stadiums preferred for batting and              bowling, etc
