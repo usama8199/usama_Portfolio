@@ -17,6 +17,7 @@
 - Demonstrates prompt tuning on Llama-2-7B for targeted NLP tasks.
 -  Showcases the application of QLoRA for fine-tuning on specific datasets.
 - A PowerPoint presentation detailing our experiments' PEFT concepts, methodologies, and key findings.
+- Demonstrated the prototype of LLM Fine-tuning (PEFT) as-a-service where you can upload the data, train multiple models and decide which model to use based on Rouge and BERT scores (Note: The code for this prototype is not included in the repository as the company owns it and cannot be shared publicly.)
 
 
 # [Project 3: Women Clothing Reviews Prediction](https://github.com/usama8199/Clothing-Review-Prediction-NLP)
